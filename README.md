@@ -1,4 +1,6 @@
-not finished yet!
+Not finished yet!
+
+Decode implemented.
 
 # Flexible Polyline encoding for nim-lang
 
